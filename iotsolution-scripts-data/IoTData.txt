@@ -1,0 +1,47 @@
+[
+  {
+    "transaction_id": "1a234b56-789c-1d23-4e56-f7890a12bc34",
+    "transaction_date": "2023-07-15T14:23:45Z",
+    "card_number": "**** **** **** 1234",
+    "merchant_name": "OnlineShopABC",
+    "transaction_amount": 98.75,
+    "is_fraudulent": false,
+    "user_id": "user123"
+  },
+  {
+    "transaction_id": "2b345c67-890d-2e34-5f67-a8901b23cd45",
+    "transaction_date": "2023-07-16T09:10:20Z",
+    "card_number": "**** **** **** 5678",
+    "merchant_name": "LocalStoreXYZ",
+    "transaction_amount": 25.00,
+    "is_fraudulent": true,
+    "user_id": "user456"
+  },
+  {
+    "transaction_id": "3c456d78-901e-3f45-6a78-b9012c34de56",
+    "transaction_date": "2023-07-17T18:30:15Z",
+    "card_number": "**** **** **** 9012",
+    "merchant_name": "EcommerceStoreLMN",
+    "transaction_amount": 150.50,
+    "is_fraudulent": false,
+    "user_id": "user789"
+  },
+  {
+    "transaction_id": "4d567e89-012f-4a56-7b89-c0123d45ef67",
+    "transaction_date": "2023-07-18T10:45:30Z",
+    "card_number": "**** **** **** 2345",
+    "merchant_name": "GasStationPQR",
+    "transaction_amount": 40.20,
+    "is_fraudulent": false,
+    "user_id": "user1011"
+  },
+  {
+    "transaction_id": "5e678f90-123g-5b67-8c90-d1234e56fg78",
+    "transaction_date": "2023-07-19T21:15:05Z",
+    "card_number": "**** **** **** 3456",
+    "merchant_name": "OnlineShopABC",
+    "transaction_amount": 300.00,
+    "is_fraudulent": true,
+    "user_id": "user1213"
+  }
+]
